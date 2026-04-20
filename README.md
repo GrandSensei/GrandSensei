@@ -16,9 +16,10 @@ End-to-end pipeline from Monte Carlo physics simulation to live neural network i
 - **Model:** 82% accuracy · 2,564 parameters · 3.2 KB · *no ML libraries — built from first principles*
 - Physics-informed feature engineering (layer ratios, shower depth, hadronic punch-through analysis)
 
-### [Java Neural Network — MNIST](https://github.com/GrandSensei/JavaNeuralNetwork)
-A fully connected MLP built in plain Java — SGD, backpropagation, binary model persistence — using nothing but standard Java collections.
+### [TensorLess]([https://github.com/GrandSensei/JavaNeuralNetwork](https://github.com/GrandSensei/TensorLess))
+A fully connected MLP built in plain Java — SGD, backpropagation, binary model persistence — using nothing but standard Java collections. Can be tested live on - https://tensorless.onrender.com
 - Architecture: `784 → 128 → 64 → 10` · 85–95% accuracy on MNIST
+- A fully functional website which lets users test the model and build a community that provides additional training data to improve the model.
 - No external libraries of any kind
 
 ### [GameEngineStuff](https://github.com/GrandSensei/GameEngineStuff)
