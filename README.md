@@ -22,10 +22,8 @@ A fully connected MLP built in plain Java — SGD, backpropagation, binary model
 - A fully functional website which lets users test the model and build a community that provides additional training data to improve the model.
 - No external libraries of any kind
 
-### [GameEngineStuff](https://github.com/GrandSensei/GameEngineStuff)
-Learning game engine fundamentals from scratch: OpenGL rendering, GLFW window management, sphere geometry, shader pipelines, and sprite animation.
-- **Stack:** C++ · OpenGL · GLFW · GLM
-- Work in progress — docs coming once the foundation is solid
+### [Möbius Transformation Engine](https://github.com/GrandSensei/Mobius_Transformations)
+An interactive OpenGL visualiser exploring the action of Möbius transformations on the Riemann Sphere, built as a companion to the research paper "Analytical Correspondence between Möbius Transformation and Relativistic Physics".
 
 ---
 
