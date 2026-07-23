@@ -4,7 +4,7 @@ Mathematics & Computer Science · Building from first principles
 
 ![C++](https://img.shields.io/badge/C%2B%2B20-blue) ![Java](https://img.shields.io/badge/Java_21-orange) ![OpenGL](https://img.shields.io/badge/OpenGL-GLFW-green) ![No ML libs](https://img.shields.io/badge/ML-from_scratch-brightgreen)
 
-I'm a maths and CS student who builds things from the ground up to understand how they really work — no PyTorch, no Unity, no shortcuts. Currently exploring relativistic physics and deep learning theory.
+I'm a maths and CS graduate who builds things from the ground up to understand how they really work — no PyTorch, no Unity, no shortcuts. Currently exploring relativistic physics and deep learning theory.
 
 ---
 
